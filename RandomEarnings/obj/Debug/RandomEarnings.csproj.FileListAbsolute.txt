@@ -1,0 +1,5 @@
+c:\users\jacob\documents\visual studio 2015\Projects\RandomEarnings\RandomEarnings\bin\Debug\RandomEarnings.dll
+c:\users\jacob\documents\visual studio 2015\Projects\RandomEarnings\RandomEarnings\bin\Debug\RandomEarnings.pdb
+c:\users\jacob\documents\visual studio 2015\Projects\RandomEarnings\RandomEarnings\obj\Debug\RandomEarnings.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2015\Projects\RandomEarnings\RandomEarnings\obj\Debug\RandomEarnings.dll
+c:\users\jacob\documents\visual studio 2015\Projects\RandomEarnings\RandomEarnings\obj\Debug\RandomEarnings.pdb
